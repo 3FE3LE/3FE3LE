@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi there, I'm Frank Licona 👋
+## Hi there, I'm Frank Licona 👋
 
 ## Frontend Developer | React Developer | React.js | Next.js | Typescript | Test e2e | Cypress | SASS | GraphQL | Postgres | MongoDB | Nest.js
 
