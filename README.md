@@ -1,6 +1,6 @@
 # Hi there, I'm Frank Licona 👋
 
-## Frontend Developer | React Developer | React.js | Next.js | Typescript | Test e2e | Cypress | SASS | GraphQL | Postgres | MongoDB | Nest.js
+## Frontend Developer | React.js | Next.js | Typescript | SOLID | Clean Architecture | Test e2e | Cypress | SASS | GraphQL | Postgres | MongoDB | Nest.js
 
 I'm a passionate Frontend Developer with a strong background in building web applications using modern technologies. Currently, I'm working on exciting projects at 17Suit, where I wear multiple hats as the founder and sole developer.
 
